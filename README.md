@@ -1,2 +1,3 @@
-# Simple-Restaurant-Project
-Web development project to practice integrating HTML &amp; CSS 
+README.md 
+
+Creating a mock Ethiopian Restaurant to practice using HTML, CSS & Bootstrap. 
