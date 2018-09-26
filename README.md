@@ -1,3 +1,3 @@
 README.md 
 
-Creating a mock Ethiopian Restaurant to practice using HTML, CSS & Bootstrap. 
+Creating a mock restaurant to practice using HTML, CSS & Bootstrap. 
